@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DimensionsStyles</string>
+    <string name="title_text">Заголовок</string>
+    <string name="subtitle_text">Подзаголовок</string>
+    <string name="description_text">Основной текст описания</string>
+    <string name="edit_text_hint">Введите текст</string>
+    <string name="button_text">Нажмите</string>
+    <string name="input_text">Вы ввели: %1$s</string>
+    <string name="your_input">Вы ввели: %1$s</string>
+</resources>
